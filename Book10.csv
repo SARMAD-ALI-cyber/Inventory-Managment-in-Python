@@ -1,0 +1,4 @@
+EMPID,Name,username,Gender,Contact,User Type,password,DOB,DOJ,Email,Salary
+233,Ali Irfan,ali.employ,male,4555,employee,ali123,4/2/2002,4/2/2022,ali@gmail.com,45000
+677,sarmad,sarmad.admin,male,2344555,employee,sarmad123,5/3/2003,4/8/2021,sarmad.xyz@xyz.edu.pk,76000
+344,haseeb,haseeb.admin,male,568800,admin,haseeb123,4/6/2002,5/7/2021,haseeb.xyz@sakata.edu.pk,80000
